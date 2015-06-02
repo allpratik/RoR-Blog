@@ -1,5 +1,8 @@
 == README
 
+### This is sample Blog Application written in Ruby with Rails as framework. 
+ui is pretty basic, but work on UI will start shortly.
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
